@@ -1,0 +1,5 @@
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.First\bin\WCF.WsHttpBinding.First.dll
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.First\bin\WCF.WsHttpBinding.First.pdb
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.First\obj\Debug\WCF.WsHttpBinding.First.dll
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.First\obj\Debug\WCF.WsHttpBinding.First.pdb
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.First\obj\Debug\WCF.WsHttpBinding.First.csprojResolveAssemblyReference.cache

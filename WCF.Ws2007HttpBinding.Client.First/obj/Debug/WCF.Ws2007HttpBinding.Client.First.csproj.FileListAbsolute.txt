@@ -1,0 +1,5 @@
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.Ws2007HttpBinding.Client.First\bin\Debug\WCF.Ws2007HttpBinding.Client.First.exe.config
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.Ws2007HttpBinding.Client.First\bin\Debug\WCF.Ws2007HttpBinding.Client.First.exe
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.Ws2007HttpBinding.Client.First\bin\Debug\WCF.Ws2007HttpBinding.Client.First.pdb
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.Ws2007HttpBinding.Client.First\obj\Debug\WCF.Ws2007HttpBinding.Client.First.exe
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.Ws2007HttpBinding.Client.First\obj\Debug\WCF.Ws2007HttpBinding.Client.First.pdb

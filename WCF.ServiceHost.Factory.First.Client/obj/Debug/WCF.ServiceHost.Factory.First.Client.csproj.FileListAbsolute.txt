@@ -1,0 +1,5 @@
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.ServiceHost.Factory.First.Client\bin\Debug\WCF.ServiceHost.Factory.First.Client.exe.config
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.ServiceHost.Factory.First.Client\bin\Debug\WCF.ServiceHost.Factory.First.Client.exe
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.ServiceHost.Factory.First.Client\bin\Debug\WCF.ServiceHost.Factory.First.Client.pdb
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.ServiceHost.Factory.First.Client\obj\Debug\WCF.ServiceHost.Factory.First.Client.exe
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.ServiceHost.Factory.First.Client\obj\Debug\WCF.ServiceHost.Factory.First.Client.pdb

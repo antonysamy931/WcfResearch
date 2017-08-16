@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCF.Ws2007HttpBinding.First.Service1" CodeBehind="Service1.svc.cs" %>

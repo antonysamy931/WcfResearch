@@ -1,0 +1,5 @@
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.Second.Certificate\bin\WCF.WsHttpBinding.Second.Certificate.dll
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.Second.Certificate\bin\WCF.WsHttpBinding.Second.Certificate.pdb
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.Second.Certificate\obj\Debug\WCF.WsHttpBinding.Second.Certificate.dll
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.Second.Certificate\obj\Debug\WCF.WsHttpBinding.Second.Certificate.pdb
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.WsHttpBinding.Second.Certificate\obj\Debug\WCF.WsHttpBinding.Second.Certificate.csprojResolveAssemblyReference.cache

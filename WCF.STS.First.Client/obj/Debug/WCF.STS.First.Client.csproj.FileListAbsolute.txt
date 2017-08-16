@@ -1,0 +1,6 @@
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.STS.First.Client\bin\Debug\WCF.STS.First.Client.exe.config
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.STS.First.Client\bin\Debug\WCF.STS.First.Client.exe
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.STS.First.Client\bin\Debug\WCF.STS.First.Client.pdb
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.STS.First.Client\obj\Debug\WCF.STS.First.Client.exe
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.STS.First.Client\obj\Debug\WCF.STS.First.Client.pdb
+D:\Antony\Projects\WCF.WsHttpBinding\WCF.STS.First.Client\obj\Debug\WCF.STS.First.Client.csprojResolveAssemblyReference.cache
